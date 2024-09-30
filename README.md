@@ -30,3 +30,6 @@
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,nextjs,mongodb,express,mysql,tailwind,bootstrap,materialui&theme=light" />
   </p>
 </div>
+
+![An image of @kvtemadden's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kvtemadden)
+
